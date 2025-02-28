@@ -1,0 +1,20 @@
+{
+  "name": "resume profile",
+  "version": "1.0.0",
+  "description": "resume profile to show work",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  
+  
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "nodemailer": "^6.10.0"
+  },
+ "devDependencies": {},
+  "author": "Janek",
+  "license": "ISC"
+
+}
